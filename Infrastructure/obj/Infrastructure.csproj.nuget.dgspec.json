@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\Application.csproj": {
+    "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\obj\\",
+        "projectPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\zohre.DESKTOP-SDT071P\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,16 +27,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\Domain.csproj"
+              "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,22 +74,21 @@
         }
       }
     },
-    "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\Domain.csproj": {
+    "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\zohre.DESKTOP-SDT071P\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,8 +97,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -152,22 +146,21 @@
         }
       }
     },
-    "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Users\\zohre.DESKTOP-SDT071P\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,16 +169,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\mahdi\\Desktop\\Zohre\\CrudSample\\CrudSample\\Application\\Application.csproj"
+              "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\zohre.DESKTOP-SDT071P\\Desktop\\git\\Application\\Application.csproj"
               }
             }
           }
