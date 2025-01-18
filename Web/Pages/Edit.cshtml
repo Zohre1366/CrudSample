@@ -1,0 +1,63 @@
+﻿@page
+@model EditPersonModel
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<h4>Person</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Person.Id" class="control-label"></label>
+                <input asp-for="Person.Id" class="form-control" readonly/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Person.FirstName" class="control-label"></label>
+                <input asp-for="Person.FirstName" class="form-control" />
+                <span asp-validation-for="Person.FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Person.LastName" class="control-label"></label>
+                <input asp-for="Person.LastName" class="form-control" />
+                <span asp-validation-for="Person.LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Person.NationalCode" class="control-label"></label>
+                <input asp-for="Person.NationalCode" class="form-control" />
+                <span asp-validation-for="Person.NationalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Person.FatherName" class="control-label"></label>
+                <input asp-for="Person.FatherName" class="form-control" />
+                <span asp-validation-for="Person.FatherName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Person.Gender" class="control-label"></label>
+                <select name="Person.Gender" asp-for="Person.Gender" class="form-control">
+                    <option value="1">مرد</option>
+                    <option value="2">زن</option>
+                </select>
+                <span asp-validation-for="Person.Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <br/>
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
